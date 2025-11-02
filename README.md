@@ -51,3 +51,7 @@ npm install
 npm run dev
 #Then open http://localhost:5173
  in your browser.
+
+
+ #Deployed link of Netlify
+ https://cute-kleicha-7b5175.netlify.app/
